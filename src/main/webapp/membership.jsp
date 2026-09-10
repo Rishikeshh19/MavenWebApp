@@ -102,7 +102,10 @@
             <th>Duration</th>
 
             <th>Membership Fee</th>
-
+            
+            <th>Membership Type</th>
+            
+			<th>Membership Status</th>
         </tr>
 
         <tr>
@@ -114,6 +117,10 @@
             <td>1 Month</td>
 
             <td>₹1,000</td>
+            
+            <td>monthly</td>
+            
+            <td>Available</td>
 
         </tr>
 
@@ -126,6 +133,10 @@
             <td>3 Months</td>
 
             <td>₹2,500</td>
+            
+            <td>quaterly</td>
+            
+            <td>Available</td>
 
         </tr>
 
@@ -138,6 +149,10 @@
             <td>6 Months</td>
 
             <td>₹4,500</td>
+            
+            <td>half yearly</td>
+            
+            <td>not available</td>
 
         </tr>
 
@@ -150,6 +165,10 @@
             <td>12 Months</td>
 
             <td>₹8,000</td>
+            
+            <td>yearly</td>
+            
+            <td>Available</td>
 
         </tr>
 
