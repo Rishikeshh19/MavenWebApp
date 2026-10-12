@@ -17,7 +17,7 @@
         header {
             background-color: #2e7d32;
             color: white;
-            padding: 30px;
+            padding: 40px;
             text-align: center;
         }
 
@@ -35,8 +35,8 @@
         }
 
         .container {
-            width: 80%;
-            margin: 50px auto;
+            width: 85%;
+            margin: 40px auto;
             text-align: center;
         }
 
