@@ -30,7 +30,7 @@
         nav a {
             color: white;
             text-decoration: none;
-            margin: 0 20px;
+            margin: 0 30px;
             font-weight: bold;
         }
 
@@ -63,7 +63,7 @@
         button {
             width: 100%;
             padding: 12px;
-            margin-top: 25px;
+            margin-top: 35px;
             background-color: #2e7d32;
             color: white;
             border: none;
