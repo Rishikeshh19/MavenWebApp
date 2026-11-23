@@ -4,7 +4,7 @@
 <html>
 <head>
 
-    <title>Gym Membership Management System</title>
+    <title>Gym Membership Management System </title>
 
     <style>
 
@@ -60,7 +60,7 @@
 
     <h1>Gym Membership Management System</h1>
 
-    <p>Manage your fitness membership with ease</p>
+    <p>Manage your fitness membership with ease and love</p>
 
 </header>
 
